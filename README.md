@@ -1,0 +1,1 @@
+# Registration Form\n\nResponsive registration form practice project with client-side name, email, password, and checkbox validation. It is a front-end demo only and does not transmit or save user information.
